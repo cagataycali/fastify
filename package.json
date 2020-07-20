@@ -65,7 +65,7 @@
     "x-xss-protection": "^1.0.0"
   },
   "dependencies": {
-    "ajv": "^5.2.2",
+    "ajv": "^6.12.3",
     "avvio": "^2.0.3",
     "fast-json-stringify": "^0.12.2",
     "fast-safe-stringify": "^1.2.0",
